@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I am Lucca
 
+  
+How to reach me: Ludef@bu.edu
 <!--
 **LuccaDeFulgentis/LuccaDeFulgentis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
